@@ -1,0 +1,5 @@
+Jsonnatalia: esta es la api de deezer en este archivo contiene la funcion para obtener la informacion de la api sobre el album de la artista
+
+Nataliatabla: este muestra los datos de jsonnatalia a la interfaz que vera el usuario
+
+Video1.html: es la api de youtube donde representa el uso de un playlist
